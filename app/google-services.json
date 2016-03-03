@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "robust-limiter-123718",
+    "project_number": "44340431618",
+    "name": "Google Signin EDABlogs"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44340431618:android:21c84ebfc3d1a951",
+        "client_id": "android:com.edablogs.googlelogindemo",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.edablogs.googlelogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44340431618-6e2usp49u50rbdfd8a42f7smjjrcm276.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edablogs.googlelogindemo",
+            "certificate_hash": "C8A2CBFC93C7BA8239CAB56A8C900C56DC7E7E92"
+          }
+        },
+        {
+          "client_id": "44340431618-n68o3d84lt95qmh1a71p7qpunprcb31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
